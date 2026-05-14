@@ -25,6 +25,7 @@ Describe an IoT project in plain English — BlinkyBot writes the Arduino code, 
 ## Key Achievement
 
 **Reduces time-to-first-blink from ~30 minutes to under 60 seconds**
+**ADD YOUR API KEY IN THE BlinkyBot.py**
 
 ## Installation
 
@@ -34,4 +35,4 @@ cd BlinkyBot
 pip install -r requirements.txt
 python blinkybot.py
 
-**ADD YOUR API KEY IN THE BlinkyBot.py**
+
