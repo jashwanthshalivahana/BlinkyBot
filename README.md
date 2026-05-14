@@ -33,3 +33,5 @@ git clone https://github.com/yourusername/BlinkyBot.git
 cd BlinkyBot
 pip install -r requirements.txt
 python blinkybot.py
+
+**ADD YOUR API KEY IN THE BlinkyBot.py**
