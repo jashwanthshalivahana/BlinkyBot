@@ -1,5 +1,8 @@
 # BlinkyBot
 
+**ADD YOUR API KEY IN THE BlinkyBot.py**
+
+
 **Generative AI for Seamless IoT Prototyping**
 
 Describe an IoT project in plain English — BlinkyBot writes the Arduino code, detects your board, and flashes it automatically.
@@ -25,7 +28,7 @@ Describe an IoT project in plain English — BlinkyBot writes the Arduino code, 
 ## Key Achievement
 
 **Reduces time-to-first-blink from ~30 minutes to under 60 seconds**
-**ADD YOUR API KEY IN THE BlinkyBot.py**
+
 
 ## Installation
 
