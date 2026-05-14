@@ -8,7 +8,7 @@ from openai import OpenAI
 # ----------------------------------------------------------------------
 # Configuration
 # ----------------------------------------------------------------------
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "your_api_key" # ADD YOUR API KEY HERE!!!!
 GROQ_BASE_URL = "https://api.groq.com/openai/v1"
 ACTIVE_GROQ_MODEL = "llama-3.3-70b-versatile"
 
